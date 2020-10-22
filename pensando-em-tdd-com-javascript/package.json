@@ -1,0 +1,12 @@
+{
+  "name": "pensando-tdd-com-javascript",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "test": "mocha"
+  },
+  "dependencies": {
+    "should": "^13.2.3"
+  }
+}
